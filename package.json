@@ -1,0 +1,16 @@
+{
+"name": "megame365",
+"theme": "megame365",
+"version": "1.1.1",
+"description": "megame365 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+"keywords": [
+"megame365",
+"megame365 เครดิตฟรี",
+"megame365 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/megame365",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
